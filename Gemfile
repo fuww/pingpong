@@ -7,7 +7,7 @@ gem 'eventmachine', '1.0.4'
 gem 'sinatra'
 gem 'sinatra-reloader'
 gem 'activerecord', '4.2.1'
-gem 'sinatra-activerecord', '2.0.6'
+gem 'sinatra-activerecord', '2.0.27'
 gem 'haml'
 gem 'multi_json'
 
